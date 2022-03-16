@@ -1,0 +1,10 @@
+html {
+  
+    background: url("./resources/drumkit.jpeg") 
+    #d6c259
+    no-repeat;
+    background-size: cover;
+    /* Moving Img a bit up */
+    background-position-y: -134px; 
+    
+}
